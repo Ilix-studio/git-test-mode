@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+nav {
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  font-weight: 300;
+  font-size: large;
+}
+.heading {
+  margin: 30px;
+}
